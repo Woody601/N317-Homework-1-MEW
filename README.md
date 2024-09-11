@@ -5,4 +5,5 @@ This is my Homework 1 assignment for N317! This is a simple page made in React/N
 
 ## Live Site
 Here is the Vercel deployment link. Please reach out to me and let me know if you have issues accessing it! 😀
+
 https://n317-homework-1-mew.vercel.app
